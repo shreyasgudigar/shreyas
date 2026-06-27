@@ -91,7 +91,7 @@ prediction, classification, and image recognition problems
 
 ## 🌍 Languages
 
-🇬🇧 English \| 🇮🇳 Hindi \| ಕನ್ನಡ Kannada \| Tulu
+English | Hindi | ಕನ್ನಡ Kannada | Tulu
 
 ------------------------------------------------------------------------
 
