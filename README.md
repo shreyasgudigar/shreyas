@@ -1,6 +1,6 @@
 # 👋 Hi, I'm **Shreyas Gudigar**
 
-::: {align="center"}
+
 ### 🤖 AI / ML Engineer \| 💻 Computer Science Graduate \| 📊 Data Science Enthusiast
 
 ![Profile
